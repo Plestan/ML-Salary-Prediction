@@ -6,4 +6,3 @@ Une application de machine learning permettant de prévoir le salaire d’un ind
 
 - `Experience` (float) – variable indépendante.
 - `Salaire` (float) – variable cible (à prédire).
-- Extraits du jeu de données :
